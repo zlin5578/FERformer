@@ -1,0 +1,27 @@
+#Python 3.11 run the following command line
+# /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 -m venv venv
+
+
+# Core ML and data processing
+tensorflow==2.19.0
+ml-dtypes==0.5.1
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.10.3
+tqdm==4.67.1
+
+# Facial recognition and emotion detection
+facenet-pytorch==2.6.0
+fer==22.5.1
+
+# Image and video processing
+opencv-python-headless==4.11.0.86
+pillow==10.2.0
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+moviepy==1.0.3
+
+# Utility and configuration
+python-dotenv==1.1.0
+decorator==4.4.2
+proglog==0.1.12

@@ -1,0 +1,14 @@
+{
+    "emotion_polling_rate": 0.2,
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "fps": 30,
+    "local_history_toggle": true,
+    "emotion_likelihood_toggle": true,
+    "emoji_toggle": true,
+    "emotion_label_toggle": true,
+    "mirror_toggle": true,
+    "fps_toggle": false,
+    "logging_toggle": true,
+    "overlay_location": 0
+}

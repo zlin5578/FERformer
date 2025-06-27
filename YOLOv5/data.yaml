@@ -1,0 +1,6 @@
+train: C:/Users/YaoCh/Desktop/CS5330/Final Project/dataset/train/images
+val: C:/Users/YaoCh/Desktop/CS5330/Final Project/dataset/valid/images
+test: C:/Users/YaoCh/Desktop/CS5330/Final Project/dataset/test/images
+
+nc: 7
+names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
